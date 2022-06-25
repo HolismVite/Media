@@ -2,8 +2,8 @@ import Images from './Image/List'
 
 const MediaRoutes = [
     {
-        "path": "/media/images",
-        "component": Images
+        path: "/media/images",
+        component: Images
     }
 ]
 
